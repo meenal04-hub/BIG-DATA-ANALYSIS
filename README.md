@@ -85,4 +85,5 @@ A bar chart will highlight content distribution by country.
 Sentiment and content ratings will be analyzed to understand audience preferences.
 
 7. Conclusion
+
 This project demonstrates the power of data cleaning, exploratory analysis, and visualization to uncover trends in Netflix content. Future work could involve building a recommendation system based on user preferences and content popularity.
