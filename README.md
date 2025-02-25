@@ -18,7 +18,7 @@
 
 # Netflix Data: Cleaning, Analysis, and Visualization
 
-1. Introduction
+**1. Introduction**
 
 Project Overview
 
@@ -55,35 +55,43 @@ The dataset consists of the following key features:
   
 This dataset presents an opportunity to explore the factors influencing Netflix's content popularity and trends.
 
-2. Tools & Technologies Used
+**2. Tools & Technologies Used**
    
 * Data Cleaning → PostgreSQL
 * Data Visualization → GoogleColab
 * Programming Language → Python
   
 Libraries Used:
+
 * NumPy
 * Matplotlib
 * Seaborn
 * WordCloud
   
-4. Data Cleaning & Analysis Steps
+**3. Data Cleaning & Analysis Steps**
 
 * Data Cleaning: Handling missing values, formatting dates, and standardizing content categories.
 * Exploratory Data Analysis (EDA): Analyzing trends, ratings, and content distribution.
 * Visualization: Created a visualization insights by using appropriate library.
 
-5. Key Insights & Visualizations
+**4. Key Insights & Visualizations**
 
 * Content Distribution
+  
 The dataset will be visualized to show content availability across different years.
+
 * Most Popular Genres
+  
 A Word Cloud will illustrate the most frequent genres on Netflix.
+
 * Country-wise Content
+  
 A bar chart will highlight content distribution by country.
+
 * Ratings & Trends
+  
 Sentiment and content ratings will be analyzed to understand audience preferences.
 
-7. Conclusion
+**5. Conclusion**
 
 This project demonstrates the power of data cleaning, exploratory analysis, and visualization to uncover trends in Netflix content. Future work could involve building a recommendation system based on user preferences and content popularity.
